@@ -5,20 +5,13 @@
 Hello, everyone! I am vikash , currently pursuing my 4-years Bachelor's degree in Computer Science .
 I have a strong passion for exploring the fascinating world of machine learning and data analysis. Being a technology enthusiast, I am excited to delve into the realms of AI and uncover insights from data. I look forward to learning and collaborating with all of you in this amazing journey of discovery and innovation.
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Vikash" /></a></p>
-
-<!-- <p align="center">
-  <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
-</p>
-
-
 ### Some more about me
 - 💻 Work status: my work status is a dynamic mix of machine learning and data projects, which I find intellectually stimulating, and learning web development frameworks to expand my skill set and explore the intersection of data and web technologies. I am enthusiastic about embracing new challenges and staying at the forefront of cutting-edge technologies in these fields.
 
 - 🔭 I’m currently working on machine learning end to end projects. 
 - 🌱 I’m currently learning Deep Neural Networks to work on more complex data. 
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons on Kaggle .
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vikash-verma)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vikash-kverma)
 
 <!--START_SECTION:activity-->
 
@@ -42,9 +35,9 @@ I have a strong passion for exploring the fascinating world of machine learning 
 <hr>
 
 <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{dev-vikash2v7}/count.svg">
+<a align="center" href="https://profile-counter.glitch.me/{vikash129}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{dev-vikash2v7}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{vikash129}/count.svg)  
   
 </a>
 
