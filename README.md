@@ -42,9 +42,9 @@ I have a strong passion for exploring the fascinating world of machine learning 
 <hr>
 
 <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{vikash129}/count.svg">
+<a align="center" href="https://profile-counter.glitch.me/{dev-vikash2v7}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{vikash129}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{dev-vikash2v7}/count.svg)  
   
 </a>
 
@@ -70,4 +70,4 @@ I have a strong passion for exploring the fascinating world of machine learning 
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash129&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr>
 </table>
-"# vikash129" 
+
